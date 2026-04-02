@@ -8,7 +8,8 @@
 
 **Interactive console chatbot that scrapes websites & answers questions using ChatGPT API**
 
-![Demo]([https://github.com/username/console-website-chatbot/assets/demo.gif](https://replit.com/join/yrzqppakmd-jyothi1317))
+
+
 
 </div>
 
